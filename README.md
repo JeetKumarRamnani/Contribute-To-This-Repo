@@ -22,11 +22,15 @@ Inside the project directory, locate the `index.html` file. add the following co
 
 ```html
 <tr class="hover:bg-gray-200">
-    <td class="border px-4 py-2">Sagar</td>
-    <td class="border px-4 py-2">Karachi</td>
-    <td class="border px-4 py-2">Pakistan</td>
-    <td class="border px-4 py-2">sagar@gmail.com</td>
-    <td class="border px-4 py-2"><a href="https://www.github.com" class="text-blue-500">GitHub</a></td>
+  <td class="border px-4 py-2">Sagar</td>
+  <td class="border px-4 py-2">Karachi</td>
+  <td class="border px-4 py-2">Pakistan</td>
+  <td class="border px-4 py-2">sagar@gmail.com</td>
+  <td class="border px-4 py-2">
+    <a href="https://www.github.com" class="text-blue-500" target="_blank"
+      >GitHub</a
+    >
+  </td>
 </tr>
 ```
 
@@ -67,4 +71,3 @@ git push origin main
 Please replace placeholders like `<your-fork-url>` and `<Your GitHub Username>` with your actual details and GitHub username.
 
 Remember to always check the project's README or CONTRIBUTING file for specific guidelines.
-
