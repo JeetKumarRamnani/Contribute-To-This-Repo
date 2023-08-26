@@ -28,8 +28,8 @@ Inside the project directory, locate the `index.html` file. add the following co
   <td class="border px-4 py-2">sagar@gmail.com</td>
   <td class="border px-4 py-2">
     <a href="https://www.github.com" class="text-blue-500" target="_blank"
-      >GitHub</a
-    >
+      >GitHub
+    </a>
   </td>
 </tr>
 ```
