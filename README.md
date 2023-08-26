@@ -18,7 +18,7 @@ Replace `<your-fork-url>` with the URL of your forked repository.
 
 ### Step 3: Add Your Information
 
-Inside the project directory, locate the `index.html` file. add the following code block with your details:
+Inside the project directory, locate the `index.html` file. add the following code block below the above tr with your details:
 
 ```html
 <tr class="hover:bg-gray-200">
@@ -51,7 +51,7 @@ git commit -m "Added information about me: <Your GitHub Username>"
 Push the committed changes to your forked repository on GitHub:
 
 ```bash
-git push origin master
+git push origin main
 ```
 
 ### Step 7: Create a Pull Request
